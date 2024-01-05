@@ -1,0 +1,38 @@
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(163, 157, 152);
+} */
+
+.heading_style{
+    padding: 30px 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    background-color:   rgb(77, 81, 70);
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+.slot_inner{
+    text-align: center;
+    text-size-adjust: 20px;
+}
+
+.slotM{
+    padding: 40px; 
+    margin: 60px;
+  
+    border: 1px solid;
+    width: 400px;
+
+    text-align: center;
+    position: absolute;
+    left: 12%;
+    
+    
+}

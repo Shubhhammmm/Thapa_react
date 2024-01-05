@@ -1,0 +1,23 @@
+/* *{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: #a68f8f;
+}
+
+div{
+    text-align: center;
+    margin: 100px;
+    font-size: medium;
+
+}
+
+.button{
+    border: 2px solid darkcyan;
+    width: 100px;
+    height: 50px;
+    color: rgb(190, 185, 179);
+    background-color: #95429d;
+    font-weight: 400;
+
+} */
